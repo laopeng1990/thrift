@@ -1,0 +1,2 @@
+# thrift
+practice for thrift
